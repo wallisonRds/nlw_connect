@@ -171,4 +171,4 @@ const startApp = () => {
 
 startApp();
 
-document.getElementById("header").onClick = () => startApp();
+document.querySelector("header").onclick = () => startApp();
