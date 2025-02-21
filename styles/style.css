@@ -22,7 +22,7 @@ body {
 
 header {
   display: grid;
-  justify-content: center;
+  justify-items: center;
   gap: 2rem;
   margin-bottom: 3rem;
 }
